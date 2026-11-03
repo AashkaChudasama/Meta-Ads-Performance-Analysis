@@ -95,7 +95,8 @@ Add the two dashboard screenshots to your repository and update the paths below 
 
 **Instagram view**
 
-![Meta Ads Performance Dashboard - Instagram](images/dashboard-instagram.png)
+<img width="859" height="492" alt="Screenshot 2026-10-30 153154" src="https://github.com/user-attachments/assets/ab27bb4e-5582-4464-bb94-1826482f3302" />
+
 
 ## Key Findings
 
