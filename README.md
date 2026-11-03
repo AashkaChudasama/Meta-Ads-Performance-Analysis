@@ -126,7 +126,7 @@ Add the two dashboard screenshots to your repository and update the paths below 
 
 1. Clone or download this repository.
 2. Open `dashboard/Meta Ads Performance Analysis.pbix` in **Power BI Desktop**.
-3. If prompted, update the source file paths to the CSV files in the `data/` folder.
+3. If prompted, update the source file paths to the CSV files in the `Meta Ads Performance Analysis_Raw Data/` folder.
 4. Refresh the data model to load the datasets.
 5. Use the platform selector and dashboard filters to explore the results.
 
