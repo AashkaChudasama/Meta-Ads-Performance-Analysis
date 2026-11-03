@@ -121,3 +121,25 @@ Add the two dashboard screenshots to your repository and update the paths below 
 - Campaign budgets are stored at campaign level. As a result, total budget remains the same in the Facebook and Instagram dashboard views and should not be interpreted as platform-specific spend.
 - May and August are partial months because the event period begins on 7 May and ends on 6 August 2025.
 - The **2.3% of events without a reliable user match** are included in overall KPIs but excluded from user-country analysis.
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open `dashboard/Meta Ads Performance Analysis.pbix` in **Power BI Desktop**.
+3. If prompted, update the source file paths to the CSV files in the `data/` folder.
+4. Refresh the data model to load the datasets.
+5. Use the platform selector and dashboard filters to explore the results.
+
+## Project Deliverables
+
+- Raw datasets (four CSV files)
+- Business Requirements Document (BRD)
+- Interactive Power BI dashboard (`.pbix`)
+- Project analysis report
+- Dashboard screenshots
+
+---
+
+**Project:** Meta Ads Performance Analysis  
+**Domain:** Marketing Analytics  
+**Focus:** Campaign Performance | Audience Analysis | Conversion Metrics | Budget Analysis 
