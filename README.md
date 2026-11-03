@@ -90,7 +90,8 @@ Add the two dashboard screenshots to your repository and update the paths below 
 
 **Facebook view**
 
-![Meta Ads Performance Dashboard - Facebook](images/dashboard-facebook.png)
+<img width="860" height="492" alt="Screenshot 2026-10-30 153138" src="https://github.com/user-attachments/assets/bf9ff8d3-bd39-455c-90c1-12bbe511a903" />
+
 
 **Instagram view**
 
